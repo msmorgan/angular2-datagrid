@@ -1,1 +1,1 @@
-export { DatagridComponent } from './datagrid.component';
+export { GridComponent } from './grid.component';
