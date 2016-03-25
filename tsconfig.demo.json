@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "emitDecoratorMetadata":true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "moduleResolution": "node"
+  },
+  "files": [
+    "demo/src/main.ts",
+    "typings/main.d.ts"
+  ]
+}
